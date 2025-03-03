@@ -29,7 +29,7 @@ An interactive Qatar Airways Dashboard was created using Power BI, allowing user
 
 🚀 How to Use
 Clone the repository:
-->   git clone https://github.com/your-username/Qatar-Airways-Analysis.git
+->   git clone https://github.com/Pramodd25/Qatar-Airways-Data-Analysis-And-Dashboard.git
 * Open qatar-airways-data-analysis.ipynb to explore the EDA and visualizations.
 * Open Qatar Airways Dashboard.pbix in Power BI to interact with the dashboard.
 
